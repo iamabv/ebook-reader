@@ -1,6 +1,6 @@
 # ebook-reader
 
-Built the project using Html, CSS, angularjs and javascript
+Built the project using Html, CSS and javascript
 
 Steps to get this project:
 
