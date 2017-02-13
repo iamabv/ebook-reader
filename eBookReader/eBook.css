@@ -1,0 +1,136 @@
+ul.bookmarks {
+    list-style: none;
+}
+ul.bookmarks li {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+ul.bookmarks a {
+    margin-right: 10px;
+}
+.likes {
+    width: 30px;
+    margin-right: 3px;
+}
+header h3 {
+    line-height: 3em;
+}
+.icon-thumbs-up {
+    color: #999;
+    cursor: pointer;
+}
+.bookmarks em {
+    color: #666;
+    font-size: 11px;
+}
+.icon-trash {
+    color: #c6c6c6;
+    cursor: pointer;
+}
+.icon-trash:hover {
+    color: #666;
+}
+.secondary {
+    color: black;
+}
+.fade-animation.ng-hide-add,
+.fade-animation.ng-hide-remove {
+    -webkit-transition: 0.5s linear all;
+    -moz-transition: 0.5s linear all;
+    -o-transition: 0.5s linear all;
+    transition: 0.5s linear all;
+    display: block !important;
+    opacity: 1;
+}
+.fade-animation.ng-hide {
+    opacity: 0;
+}
+.gallery-image {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+.popover {
+    height: 200px;
+    width: 100px;
+    color: black;
+}
+.alignment {
+    margin-top: 110px;
+}
+ul.bookmarks {
+    list-style: none;
+}
+ul.bookmarks li {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+ul.bookmarks a {
+    margin-right: 10px;
+}
+.likes {
+    width: 30px;
+    margin-right: 3px;
+}
+header h3 {
+    line-height: 3em;
+}
+.icon-thumbs-up {
+    color: #999;
+    cursor: pointer;
+}
+.navbar-default .navbar-nav>li>a {
+    color: whitesmoke;
+}
+.bookmarks em {
+    color: #666;
+    font-size: 11px;
+}
+.spacing-alignment {
+    margin-top: 20px;
+    margin-left: 70px;
+    text-align: center;
+}
+.margin-alignment {
+    margin-left: 42px;
+    text-align: center;
+}
+.panel-alignment {
+    margin-top: -200px;
+    margin-left: 550px;
+    width: 400px;
+}
+body {
+    background-color: #504A4B;
+    overflow-x: hidden;
+}
+.panel-background {
+    background: transparent;
+}
+li {
+    list-style-type: none;
+}
+.style-alignment {
+    margin-left: -46px;
+    margin-top: -12px;
+    width: 250px;
+    height: 500px;
+}
+.image-alignment {
+    margin-top: -503px;
+    margin-left: 230px;
+}
+li a:active {
+    color: greenyellow;
+}
+.style-alignment .activelink .navbar-header a:hover {
+    color: greenyellow;
+}
+.background-styling {
+    background-color: grey;
+}
+.navbar-default .navbar-brand,
+.color-styling {
+    color: whitesmoke;
+}
